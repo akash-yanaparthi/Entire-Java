@@ -1,18 +1,2 @@
-What is happening bts?
 
-
-Entire Architecture of the Java 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+everything about Array
