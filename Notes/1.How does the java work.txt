@@ -1,31 +1,3 @@
-in java every staments end  with ;
-
-variables, operators and its types
-
-pre and post increments
-
-
-
-
-DataTypes - 
-
-
-
-by default its is double and we need to mention f at the end to make it float
-
-Type conversion and casting
-
-implicit and explicit
-
-
-
-condtitional statments
-
-loops
-
-
-switch break
-
-
+What is happening bts?
 
 
