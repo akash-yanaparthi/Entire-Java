@@ -1,31 +1,31 @@
-How does the java work??
+in java every staments end  with ;
 
-In every system, it will have a JVM
+variables, operators and its types
 
-
-Hardware->OS->JVM stays here
-
-Java is platform independent, but JVM is not
-
-SO the jvm will understand only byte code not the java code
-
-
-java code - compiler - bytecode(JVM executes this) - searches for main method - output
-
-
-Main is the entry point of the program
-
-The byte is created after we click on run and the extension of the byte code is .class whereas for code file it is .java
-
-ok so now how does JVM runs?
-
-The answer is JRE which will have JVM and inside JVM we will have libraries
-
-
-JDK->JRE->JVM
+pre and post increments
 
 
 
 
-SO The Java is WORA(write once and run anywhere)
+DataTypes - 
+
+
+
+by default its is double and we need to mention f at the end to make it float
+
+Type conversion and casting
+
+implicit and explicit
+
+
+
+condtitional statments
+
+loops
+
+
+switch break
+
+
+
 
