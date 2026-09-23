@@ -1,0 +1,6 @@
+Access specifiers
+
+Why methods shold be alwways pubblic, why variables always private
+
+Also related questions
+
