@@ -1,10 +1,42 @@
-Similarily give on 
+generate a complete readme.md file covering
 
-Access specifiers
+abstarct class and methods
+why cant we create objects for it. how can we create objects for it. how can we create its direct object of abstrat class from Main class itself . anonymous inner class
 
-
-Why methods shold be alwways pubblic, why variables always private
-
-Also related questions
+and all that realted questions with proper explainations and examples
 
 
+Also
+interfaces and its related questions and answers
+can we declare variables inside interface, yes or no and why and how
+
+types of interface: normal,functional/sam,marker 
+----------------------------------------------
+
+
+enum
+lambda
+types of errors: compile,run,logical
+exception class and exceptions
+---------------------------------------------------------------------
+Buffer reader
+---------------------------------
+Threads,Runnable, 
+
+
+
+
+
+------------------------------------
+Collections
+Collections work with objects therefore to solve this issue we use generics
+
+next()
+hasNext()
+
+Iterator
+
+Predicate
+
+
+Stream and its methods and all related things
